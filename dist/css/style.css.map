@@ -1,0 +1,1 @@
+{"version":3,"sourceRoot":"","sources":["../../src/sass/config/_variables.scss","../../src/sass/components/_nav.scss","../../src/sass/components/_footer.scss","../../src/sass/style.scss"],"names":[],"mappings":"AAKA;EACI,OAHS;;;ACCb;EACI,kBDFS;ECGT,ODNO;;;ACSX;EACI;;;ACNJ;EACI;EACA;EACA;EACA,kBFPS;EEQT,OFTO;EEUP;;;ACRJ;EACI;EACA","file":"style.css"}

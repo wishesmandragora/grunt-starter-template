@@ -1,0 +1,12 @@
+@use '../config/variables' as *;
+@use '../components/nav' as nav;
+
+
+footer {
+    position: fixed;
+    bottom: 0;
+    padding: nav.$pt-5 20px;
+    background-color: $blue-green;
+    color: $gray-100;
+    width: 100%;
+}

@@ -1,0 +1,28 @@
+body {
+  color: #334257;
+}
+
+.nav {
+  background-color: #334257;
+  color: #EEEEEE;
+}
+
+header {
+  width: 100%;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  padding: 80px 20px;
+  background-color: #548CA8;
+  color: #EEEEEE;
+  width: 100%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/*# sourceMappingURL=style.css.map */

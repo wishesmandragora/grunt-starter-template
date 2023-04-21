@@ -1,0 +1,12 @@
+@use '../config/variables' as colors; 
+
+$pt-5: 80px;
+
+.nav {
+    background-color: colors.$denim-blue;
+    color: colors.$gray-100;
+}
+
+header {
+    width: 100%;
+}
